@@ -32,6 +32,15 @@ Your Path Should look like this now ↓
    & "C:\Users\YourUsername\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main\Install-AllRuntimes-(RunAdmin!).ps1"
    ```
 4. Press Enter and the script will run if you entered it correctly! You'll be notified in green text once the script is finished installing everything.
+
+After the script finishes you will see:
+
+Do you wish to reboot now to apply changes? (y/n)
+
+- Type **y** and press Enter → computer will reboot in 5 seconds
+- Type **n** and press Enter → window closes in 5 seconds
+
+A reboot is **highly recommended**
    
 5. Confirm everything installed correctly; Windows key + S > Installed Apps > Sort by date > A bunch of VC++ and .Net should be installed if executed correctly.
 
