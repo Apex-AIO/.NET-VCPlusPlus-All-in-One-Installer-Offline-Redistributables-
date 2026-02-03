@@ -15,9 +15,20 @@ One script to silently install every major **.NET** runtime (1.0 → 10.x) and *
 
 1. Press **Win + S** → type **PowerShell**  
 2. Right-click **Windows PowerShell** → **Run as administrator**  
-3. In the **Powershell**, paste the command below ↓ **NOTE:** (you **WILL** need to change the path to match where you're storing it, the below command is just an example):
+3. In the **Powershell**, Follow Below ↓ 
 
-   ```powershell
+(you **WILL** need to change the path to match where you're storing it, the below commands are just an example):
+
+Change this to match your path  ↓
+   ```
+   & "C:\Users\YourUsername\Desktop
+   ```
+Add this to the end of your path ↓
+   ```
+   \.Net-and-VC-All-In-One-Silent-Installer\Install-AllRuntimes-(RunAdmin!).ps1
+   ```
+Your Path Should look like this now ↓
+   ```
    & "C:\Users\YourUsername\Desktop\Apexs-AIO\Install-AllRuntimes-(RunAdmin!).ps1"
-
-4. Confirm everything installed correctly; Windows key + S > Installed Apps > Sort by date > A bunch of VC++ and .Net should be installed if executed correctly.
+   ```
+   4. Confirm everything installed correctly; Windows key + S > Installed Apps > Sort by date > A bunch of VC++ and .Net should be installed if executed correctly.
