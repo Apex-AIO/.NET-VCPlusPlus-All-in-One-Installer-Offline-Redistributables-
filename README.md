@@ -25,11 +25,11 @@ Change this to where you extracted the ".Net-and-VC-All-In-One-Silent-Installer"
    ```
 Add this to the end of your path ↓
    ```
-   \.Net-and-VC-All-In-One-Silent-Installer\Install-AllRuntimes-(RunAdmin!).ps1"
+   \.Net-and-VC-All-In-One-Silent-Installer-main\Install-AllRuntimes-(RunAdmin!).ps1"
    ```
 Your Path Should look like this now ↓
    ```
-   & "C:\Users\YourUsername\Desktop\.Net-and-VC-All-In-One-Silent-Installer\Install-AllRuntimes-(RunAdmin!).ps1"
+   & "C:\Users\YourUsername\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main\Install-AllRuntimes-(RunAdmin!).ps1"
    ```
 4. Press Enter and the script will run if you entered it correctly! You'll be notified in green text once the script is finished installing everything.
    
