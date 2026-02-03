@@ -3,17 +3,9 @@
 **What this AIO is**  
 One script to silently install every major **.NET** runtime (1.0 → 10.x) and **Visual C++ Redistributable** (2005 → 2026) — x86 + x64.  
 
-Do **not** rename or move the subfolders — the script looks for them by **exact name**.
-
-## Folder Structure (keep it exactly like this)
-
-Apexs-AIO/
-├── .Net/                        # all .NET installers (.exe)
-├── Visual Studio (VC++)/        # all VC++ installers (.exe)
-└── Install-AllRuntimes-(RunAdmin!).ps1   # the script
-
-
 # How to Run
+
+### Do **not** rename or move the subfolders — the script looks for them by **exact name**.
 
 ### Method 1 – Easiest (if available)
 
