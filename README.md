@@ -3,26 +3,46 @@
 One script to install every **.NET** runtime (1.0 → 10.x) and **VC++ Redistributable** (2005 → 2026) — x86 + x64.
 
 ### Currently contains;
+
+
 .NET 10.0 (latest)
+
 .NET 9.0
+
 .NET 8.0
+
 .NET 7.0
+
 .NET 6.0
+
 .NET 5.0
-.NET CORE 3.1
-.NET CORE 3.0
-.NET CORE 2.2
-.NET CORE 2.1
-.NET CORE 2.0
-.NET CORE 1.1
-.NET CORE 1.0
+
+.NET Core 3.1
+
+.NET Core 3.0
+
+.NET Core 2.2
+
+.NET Core 2.1
+
+.NET Core 2.0
+
+.NET Core 1.1
+
+.NET Core 1.0
 
 Visual Studio 2017–2026 (latest)
+
 Visual Studio 2015 (VC++ 14.0)
+
 Visual Studio 2013 (VC++ 12.0)
+
 Visual Studio 2012 (VC++ 11.0)
+
 Visual Studio 2010 (VC++ 10.0)
+
 Visual Studio 2008 (VC++ 9.0)
+
 Visual Studio 2005 (VC++ 8.0)
 
 
