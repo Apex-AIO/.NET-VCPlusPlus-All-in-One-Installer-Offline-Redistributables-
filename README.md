@@ -29,6 +29,8 @@ Add this to the end of your path ↓
    ```
 Your Path Should look like this now ↓
    ```
-   & "C:\Users\YourUsername\Desktop\Apexs-AIO\Install-AllRuntimes-(RunAdmin!).ps1"
+   & "C:\Users\YourUsername\Desktop\.Net-and-VC-All-In-One-Silent-Installer\Install-AllRuntimes-(RunAdmin!).ps1"
    ```
-   4. Confirm everything installed correctly; Windows key + S > Installed Apps > Sort by date > A bunch of VC++ and .Net should be installed if executed correctly.
+4. Press Enter and the script will run if you entered it correctly! You'll be notified in green text once the script is finished installing everything.
+   
+5. Confirm everything installed correctly; Windows key + S > Installed Apps > Sort by date > A bunch of VC++ and .Net should be installed if executed correctly.
